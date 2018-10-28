@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 /**
  * Defines methods for resolving artifacts.
  * 
- * @author b14951
+ * @author lloydjm77
  */
 public interface ArtifactStorageProxy {
 

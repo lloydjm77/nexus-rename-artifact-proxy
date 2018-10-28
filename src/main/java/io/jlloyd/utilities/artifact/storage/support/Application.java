@@ -15,7 +15,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * Main application class used to boostrap and configure the application.
  * 
- * @author b14951
+ * @author lloydjm77
  */
 @SpringBootApplication
 public class Application {

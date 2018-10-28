@@ -21,7 +21,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * Controller for resolving artifacts in Nexus.
  * 
- * @author b14951
+ * @author lloydjm77
  */
 @Controller
 public class NexusArtifactStorageProxy implements ArtifactStorageProxy {
