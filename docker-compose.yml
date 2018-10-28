@@ -1,8 +1,8 @@
 version: '3'
 
 services:
-  artifact-storage-support:
+  nexus-rename-artifact-proxy:
     build: .
-    image: artifact-storage-support:1.0.0
+    image: nexus-rename-artifact-proxy:1.0.0
     ports:
     - "8888:8080"
